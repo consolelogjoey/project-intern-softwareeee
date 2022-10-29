@@ -1,0 +1,17 @@
+.image{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+
+}
+.box{
+    margin: 100px;
+    padding: 50px;
+    background-color: white;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr ;
+    row-gap: 10px;
+    column-gap: 10px;
+
+}

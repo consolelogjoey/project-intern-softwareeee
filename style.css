@@ -1,0 +1,60 @@
+body{
+    background-color: skyblue;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.top-header{
+    background-color: skyblue;
+    text-decoration: none;
+}
+
+.wrapper{
+    color: black;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+
+}
+
+.box{
+    margin: 200px;
+    padding: 100px;
+    background-color: white;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr ;
+    row-gap: 20px;
+    column-gap: 20px;
+
+}
+
+.image1{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+
+}
+
+.image2{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+
+}
+.image3{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+
+}
+
+.button{
+    color: black;
+    background-color: lavender;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+    
+}
